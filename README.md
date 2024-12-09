@@ -1,6 +1,7 @@
 # **Customer Feedback Dashboard - Hotel Feedback Analysis**
 
-![Customer Feedback Dashboard](./customer_feedback_dashboard.png)
+![Customer Feedback Dashboard](./Cr.png)
+
 
 ## **Project Overview**
 This project involves creating a **Customer Feedback Dashboard** for a hotel business to analyze customer insights and identify areas for improvement. The dashboard visualizes data from customer feedback, providing actionable insights to improve overall customer satisfaction, boost business performance, and enhance the guest experience. 
