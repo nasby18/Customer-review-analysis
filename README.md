@@ -1,6 +1,7 @@
 # **Customer Feedback Dashboard - Hotel Feedback Analysis**
 
-![Customer Feedback Dashboard](./customer feedback.png)
+![Customer Feedback Dashboard](./customer%20feedback.png)
+
 
 
 
